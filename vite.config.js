@@ -14,4 +14,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  base: '/study-shadcn-table-demo-01'
 })
